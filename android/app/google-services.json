@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616016688484",
+    "project_id": "roadeye2",
+    "storage_bucket": "roadeye2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616016688484:android:a8da57df27405b2536b671",
+        "android_client_info": {
+          "package_name": "com.example.roadeye"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCn8-EF4PWswRm4kx7WKZq0GJ9LtuT6uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
